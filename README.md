@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajaikumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Microservices%20%7C%20Cloud-Native%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajaikumar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AjaiKumarSenthil&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/AjaiKumarSenthil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaikumarsenthil)
-[![Email](https://img.shields.io/badge/Email-ajaikumarsenthil5%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:ajaikumarsenthil5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ajairamuk%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:ajairamuk@gmail.com)
 
 </div>
 
@@ -32,10 +32,10 @@ public class Ajaikumar {
     String[] currentlyLearning = {
         "System Design",
         "Advanced Kafka Patterns",
-        "AWS Solutions Architect"
+        
     };
 
-    String funFact = "I cut a SQL job from 3 hrs → 30 mins 🚀";
+    String funFact = "Turned an 80% manual process into a one-click automation ⚡";
 
     String motto() {
         return "Build systems that scale, code that lasts.";
@@ -96,10 +96,10 @@ public class Ajaikumar {
 
 <div align="center">
   <a href="https://github.com/AjaiKumarSenthil">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjaiKumarSenthil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjaiKumarSenthil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/AjaiKumarSenthil">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarSenthil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiKumarSenthil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
   </a>
 </div>
 
@@ -124,7 +124,7 @@ public class Ajaikumar {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AjaiKumarSenthil&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AjaiKumarSenthil&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
 </div>
 
 ---
@@ -195,7 +195,6 @@ public class Ajaikumar {
 ```
 🏗️  System Design        → Distributed Systems, CAP Theorem, Consistent Hashing
 ⚡  Advanced Kafka       → Kafka Streams, Schema Registry, KSQL
-☁️  AWS Architect        → VPC, Load Balancers, CloudFormation, IAM Deep Dive
 🔐  Security Patterns    → OAuth2 flows, mTLS, Zero-Trust Architecture
 🧪  Observability        → OpenTelemetry, Prometheus, Grafana, Jaeger
 ```
@@ -213,7 +212,7 @@ public class Ajaikumar {
 *"Build systems that scale, code that lasts."* — **Ajaikumar S**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaikumarsenthil-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaikumarsenthil)
-[![Email](https://img.shields.io/badge/Gmail-ajaikumarsenthil5%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:ajaikumarsenthil5@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-ajairamuk%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:ajairamuk@gmail.com)
 
 </div>
 
