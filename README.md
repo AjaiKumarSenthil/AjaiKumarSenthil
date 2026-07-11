@@ -24,15 +24,18 @@ public class Ajaikumar {
     String degree      = "B.Tech ECE @ VIT Vellore (CGPA: 8.90)";
 
     String[] stack = {
-        "Java", "Spring Boot", "Kafka",
-        "PostgreSQL", "MongoDB", "Redis",
+        "Java", "Python", "Spring Boot", "Kafka",
+        "PostgreSQL", "Oracle PL/SQL", "MongoDB", "Redis",
         "Docker", "Kubernetes", "AWS"
+    };
+
+    String[] aiTools = {
+        "Cursor", "GitHub Copilot", "MCP", "Gen AI"
     };
 
     String[] currentlyLearning = {
         "System Design",
         "Advanced Kafka Patterns",
-        
     };
 
     String funFact = "Turned an 80% manual process into a one-click automation ⚡";
@@ -53,6 +56,7 @@ public class Ajaikumar {
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -63,8 +67,9 @@ public class Ajaikumar {
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 [![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white)](https://site.mockito.org/)
 
 **Cloud & DevOps**
 
@@ -84,6 +89,13 @@ public class Ajaikumar {
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
+**AI & Productivity Tools**
+
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://www.cursor.com/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![MCP](https://img.shields.io/badge/MCP-70A5FD?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
+[![Gen AI](https://img.shields.io/badge/Gen%20AI-bf91f3?style=flat-square&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+
 **Security & Auth**
 
 [![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)](https://oauth.net/2/)
@@ -101,13 +113,13 @@ public class Ajaikumar {
 
 > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS EKS](https://img.shields.io/badge/AWS%20EKS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-- 🚀 Developed scalable, **cloud-native microservices** using Spring Boot, Kafka, and PostgreSQL deployed on **AWS EKS**, handling high-throughput production workloads.
-- ⚡ Designed and optimized RESTful APIs achieving a **70% improvement** in key API response times through targeted profiling and query optimization.
-- 🗄️ Resolved a critical data sync bottleneck by analyzing execution plans and applying indexing — cutting **SQL execution time from 3 hours → 30 minutes** (6× faster).
-- 🤖 Engineered hotfix rollup automation integrating production fixes into the dev branch, **reducing manual effort by 80%** and eliminating error-prone merges.
-- 🔒 Resolved CVEs across microservices by upgrading vulnerable dependencies and patching Docker base images, ensuring container-level security compliance.
+- 🚀 Developed and maintained **cloud-native microservices** using Spring Boot, Kafka, and PostgreSQL for large-scale telecom OSS inventory products, deployed on **AWS EKS**.
+- ⚡ Designed numerous RESTful APIs with Spring Boot and Hibernate/JPA, achieving a **70% reduction** in response time for a critical search API through caching and query batching.
+- 🔀 Implemented Kafka-based event-driven workflows for asynchronous processing, inter-service communication, notifications, and data synchronization flows.
+- 🐛 Diagnosed and resolved high-severity production defects — including race conditions, concurrency issues, and database deadlocks — across Java microservices and Oracle PL/SQL by analyzing logs, heap dumps, and thread dumps.
+- 🗄️ Optimized SQL queries through execution plan analysis and indexing strategies, cutting **query runtime from 3 hours → 30 minutes** (6× faster) for a critical data sync workflow.
+- 🤖 Leveraged AI-assisted development tools including **Cursor, GitHub Copilot, and MCP** to accelerate backend development, improve code quality, streamline debugging, and reduce feature delivery time.
 - 🔄 Collaborated with DevOps to implement CI/CD pipelines (Jenkins + Git + Maven), **reducing release cycle time by 40%**.
-- 🧪 Built UI-based Selenium test suites, reducing regression testing time across releases and strengthening overall code quality.
 
 </details>
 
@@ -119,7 +131,9 @@ public class Ajaikumar {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| [**Event Booking Platform**](https://github.com/AjaiKumarSenthil) | Spring Boot · Kafka · PostgreSQL · Keycloak · Docker · Kubernetes | BookMyShow-inspired microservice platform · Event-driven async architecture with Kafka · Ingress-based K8s routing · Auth via Keycloak + JWT |
+| **Amdocs Resource Manager / Network Navigator (ARM/ANN)** | Java · Spring Boot · Kafka · PostgreSQL · Redis · Docker · Kubernetes · AWS | Telecom OSS platform modeling physical & logical network inventory · Owned Inventory & Search features (creation, multi-system search, relationship traversal, bookmarking) · Kafka-driven reconciliation in the Sync Engine · Built TMF adapters for downstream integrations |
+| **Gen AI Rollup Tool** | LLM · Cursor CLI · Bitbucket MCP · Git · Maven · Shell Script | GenAI-driven automation to auto-merge production hotfixes into develop, cutting manual effort by 90% · Shell-script cherry-pick engine with auto-raised PRs · LLM-based conflict resolution using commit metadata + skill-defined instructions · Adopted org-wide across multiple teams at Amdocs |
+| [**Event Booking Platform**](https://github.com/AjaiKumarSenthil/Event-Booking-System) | Spring Boot · Kafka · PostgreSQL · Redis · Docker · Kubernetes | BookMyShow-inspired microservice platform · Event-driven async architecture with Kafka · Ingress-based K8s routing · Auth via Spring Security + JWT |
 
 </div>
 
@@ -133,8 +147,6 @@ public class Ajaikumar {
 |:---:|:-----------|:--------|
 | 🌟 | **All-Round Impact Award** | Received in 2025 at Amdocs for outstanding contributions to backend development |
 | 🚀 | **Rising Star Excellence Award** | Received in 2026 at Amdocs for exceptional performance across engineering initiatives |
-| 🎓 | **VIT CGPA 8.90 / 10** | B.Tech ECE — top academic performance across 4 years |
-| 📚 | **12th Board CGPA 9.94 / 10** | Narayana Jr College, Nellore — near-perfect academic score |
 
 </div>
 
